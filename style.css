@@ -1,13 +1,11 @@
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    display: flex;
     background-color: rgb(24, 26, 32);
     color: #04030b;
 }
 
 label {
-    font-size: 25px;
-    font-weight: bold;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .principal {
@@ -22,12 +20,13 @@ label {
 
 .principal h1 {
     color: rgb(7, 13, 29);
-    font-size: 35px;
+    font-size: 25px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .principal p {
-    font-size: 25px;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
 }
 
